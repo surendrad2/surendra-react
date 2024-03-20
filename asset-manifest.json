@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/surendra-react/static/css/main.e6c13ad2.css",
+    "main.js": "/surendra-react/static/js/main.f2c8d0c0.js",
+    "index.html": "/surendra-react/index.html",
+    "main.e6c13ad2.css.map": "/surendra-react/static/css/main.e6c13ad2.css.map",
+    "main.f2c8d0c0.js.map": "/surendra-react/static/js/main.f2c8d0c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f2c8d0c0.js"
+  ]
+}
